@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/garyblankenship-mcp-php-badge.png)](https://mseep.ai/app/garyblankenship-mcp-php)
+
 # Setting Up a Model Context Protocol (MCP) Server in Laravel
 
 ## Overview
